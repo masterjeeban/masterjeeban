@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masterjeeban
-- 👀 I’m interested in grapic designing & UI design
+- 👀 I’m interested in graphic & UI design
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on UI design
 - 📫 
